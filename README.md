@@ -1,7 +1,7 @@
 ### Coucou les loulous 👋
 
 Actuellement étudiant en informatique.
-PAsse son temps à jouer à LoL ou regarder des animes (pas de douche ici).
+Passe son temps à jouer à LoL ou regarder des animes (pas de douche ici).
 
 <!--
 **MatteraAurelien/MatteraAurelien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
