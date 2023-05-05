@@ -26,8 +26,8 @@
 <h1 align="left">𝘎𝘪𝘵𝘩𝘶𝘣 𝘚𝘵𝘢𝘵𝘴 📈 </h1>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatteraAurelien&hide_border=true&theme=radical&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteraAurelien&hide_border=true&theme=radical&langs_count=6)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatteraAurelien&hide_border=true&theme=transparent&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteraAurelien&hide_border=true&theme=transparent&langs_count=6)" />
  </div> 
 
 
